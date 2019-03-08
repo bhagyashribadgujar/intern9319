@@ -1,0 +1,11 @@
+E:\bhagyashri\traini\intern9319\obj\Debug\netcoreapp2.1\intern9319.csprojAssemblyReference.cache
+E:\bhagyashri\traini\intern9319\obj\Debug\netcoreapp2.1\intern9319.csproj.CoreCompileInputs.cache
+E:\bhagyashri\traini\intern9319\obj\Debug\netcoreapp2.1\intern9319.AssemblyInfoInputs.cache
+E:\bhagyashri\traini\intern9319\obj\Debug\netcoreapp2.1\intern9319.AssemblyInfo.cs
+E:\bhagyashri\traini\intern9319\bin\Debug\netcoreapp2.1\intern9319.deps.json
+E:\bhagyashri\traini\intern9319\bin\Debug\netcoreapp2.1\intern9319.runtimeconfig.json
+E:\bhagyashri\traini\intern9319\bin\Debug\netcoreapp2.1\intern9319.runtimeconfig.dev.json
+E:\bhagyashri\traini\intern9319\bin\Debug\netcoreapp2.1\intern9319.dll
+E:\bhagyashri\traini\intern9319\bin\Debug\netcoreapp2.1\intern9319.pdb
+E:\bhagyashri\traini\intern9319\obj\Debug\netcoreapp2.1\intern9319.dll
+E:\bhagyashri\traini\intern9319\obj\Debug\netcoreapp2.1\intern9319.pdb
